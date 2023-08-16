@@ -1,0 +1,47 @@
+.body {
+    background-color: gold;
+}
+
+
+.heading {
+    text-align: center;
+    color: peru;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: 1000;
+}
+
+.links {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(94, 182, 11);
+    text-align: justify;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+.ingredients,
+.steps {
+    font-size: 25px;
+    color: maroon;
+    text-align: left;
+}
+
+h2{
+    font-weight: bolder;
+    font-style: oblique;
+    
+}
+
+
+.subtitle{
+    font-weight: bold;
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    color: olive;
+    font-size: 30px;
+
+}
